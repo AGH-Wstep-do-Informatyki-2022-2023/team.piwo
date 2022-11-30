@@ -35,6 +35,6 @@ Jeszcze nie została rozpoczęta.
 
 ## Licencja
 
-[MIT License.txt](MIT License.txt)
+Zawarta w pliku [MIT License.txt]
 
 ## Koniec
