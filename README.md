@@ -8,6 +8,7 @@ Co potrzebujesz aby zainstalować naszą grę:
 
 ```
 - Duże pokłady wyobraźni
+- Dobry humor
 - Komputer
 - Garść wolnego czasu
 ```
